@@ -1,9 +1,12 @@
-# Welcome to pharmaverse GitHub! <img src="![pharmaverse logo](https://user-images.githubusercontent.com/82581364/188458967-2a426124-22e7-4ba7-b396-88cd08bf5c67.png)" align="right" width="200" style="margin-left:50px;"/>
+# Welcome to pharmaverse GitHub! 
 
-![image](https://user-images.githubusercontent.com/82581364/188458800-d816a2a5-829f-4d05-ae9b-f09036916851.png)
+To get started with learning about the pharmaverse, please visit our [website](https://pharmaverse.org/), read our
+[charter](https://pharmaverse.org/charter/), and check out our pharma stack of open source R packages to enable
+clinical reporting [here](https://pharmaverse.org/e2eclinical/).
 
-To get started with learning about the pharmaverse, please visit our [website](https://pharmaverse.org/) and check out our
-pharma stack of open source R packages to enable clinical reporting [here](https://pharmaverse.org/e2eclinical/).
+![image](https://user-images.githubusercontent.com/82581364/188459211-9174465f-ba9b-4987-9541-394e03b0bb29.png)
+
+## Contributions 
 
 If you'd like to get involved with contributions, see options [here](https://pharmaverse.org/contribute/) or reach out to
 any of our council reps (listed at the bottom of our homepage).
@@ -13,3 +16,9 @@ established pharmaverse packages. For example, the `{admiral}` family of package
 utility functions detailed [here](https://pharmaverse.github.io/admiraldev/main/) and CI/CD workflow checks
 [here](https://pharmaverse.github.io/admiralci/main/). Many of these learnings were inherited from the NEST team,
 and we are keen to help spread such efficiency techniques across our pharmaverse community.
+
+## Support
+
+Our support model is explained [here](https://pharmaverse.org/support/) and very much relies on an active community
+of engaged individuals from across our industry. Please join the community via our Slack workspace using this
+[link](https://join.slack.com/t/pharmaverse/shared_invite/zt-yv5atkr4-Np2ytJ6W_QKz_4Olo7Jo9A).
