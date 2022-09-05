@@ -1,4 +1,4 @@
-# Welcome to pharmaverse GitHub! 
+# Welcome to our pharmaverse GitHub org! 
 
 To get started with learning about the pharmaverse, please visit our [website](https://pharmaverse.org/), read our
 [charter](https://pharmaverse.org/charter/), and check out our pharma stack of open source R packages to enable
