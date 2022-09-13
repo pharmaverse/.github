@@ -15,7 +15,8 @@ If you are a package lead or a new development team, you may find it useful to l
 established pharmaverse packages. For example, the `{admiral}` family of packages shares a common set of developer
 utility functions detailed [here](https://pharmaverse.github.io/admiraldev/main/) and CI/CD workflow checks
 [here](https://pharmaverse.github.io/admiralci/main/). Many of these learnings were inherited from the NEST team,
-and we are keen to help spread such efficiency techniques across our pharmaverse community.
+and we are keen to help spread such efficiency techniques across our pharmaverse community. Read more about what's
+available to help you [here](https://pharmaverse.org/contribute/lead/).
 
 ## Support
 
