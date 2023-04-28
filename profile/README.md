@@ -4,7 +4,7 @@ To get started with learning about the pharmaverse, please visit our [website](h
 [charter](https://pharmaverse.org/charter/), and check out our pharma stack of open source R packages to enable
 clinical reporting [here](https://pharmaverse.org/e2eclinical/).
 
-![pharmaverse overview](https://user-images.githubusercontent.com/82581364/232018490-0e9e6d6b-fce5-47ac-b9df-ff9c0a277d0d.PNG)
+![image](https://user-images.githubusercontent.com/82581364/235166055-3570999c-e5ad-4408-8365-bd0a02627d70.png)
 
 ## Contributions 
 
